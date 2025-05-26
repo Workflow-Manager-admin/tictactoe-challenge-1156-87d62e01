@@ -19,3 +19,9 @@ To create a production build, use npm run build.
 
 webpack compiled successfully
 Watchpack Error (initial scan): Error: ENOTSUP: operation not supported on socket, lstat '/tmp/.s.PGSQL.5432'
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully

@@ -106,3 +106,20 @@ body {
   padding: 12px 24px;
   font-size: 1.1rem;
 }
+
+/* TicTacToe Game Styles */
+.game-container {
+  background-color: var(--kavia-dark);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.game-square:hover {
+  background-color: rgba(232, 122, 65, 0.1);
+}
+
+.game-square:focus {
+  outline: none;
+  border-color: var(--kavia-orange);
+}
