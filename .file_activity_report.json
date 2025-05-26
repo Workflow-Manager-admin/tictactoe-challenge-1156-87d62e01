@@ -2,161 +2,165 @@
     "top_n_overall": [
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/package.json",
-            "count": 27
+            "count": 68
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/App.js",
-            "count": 20
+            "count": 44
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/App.css",
-            "count": 17
+            "count": 41
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/favicon.ico",
-            "count": 15
+            "count": 36
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/index.html",
-            "count": 15
+            "count": 36
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/logo192.png",
-            "count": 15
+            "count": 36
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/manifest.json",
-            "count": 15
+            "count": 36
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/robots.txt",
-            "count": 15
+            "count": 36
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/index.css",
-            "count": 15
+            "count": 36
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/index.js",
-            "count": 15
+            "count": 36
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/README.md",
-            "count": 14
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/eslint.config.mjs",
-            "count": 14
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/post_process.log",
-            "count": 14
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/post_process_status.lock",
-            "count": 14
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/logo512.png",
-            "count": 14
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/logo.svg",
-            "count": 14
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/setupTests.js",
-            "count": 14
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/react_server.log",
-            "count": 12
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/components/TicTacToe/TicTacToe.js",
-            "count": 5
+            "count": 28
         },
         {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/components",
-            "count": 1
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/react_server.log",
+            "count": 22
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/package-lock.json",
+            "count": 8
         }
     ],
     "top_n_last_10_min_accessed": [
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/package.json",
-            "count": 27
+            "count": 68
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/App.js",
-            "count": 17
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/favicon.ico",
-            "count": 15
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/index.html",
-            "count": 15
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/logo192.png",
-            "count": 15
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/manifest.json",
-            "count": 15
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/robots.txt",
-            "count": 15
+            "count": 41
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/App.css",
-            "count": 15
+            "count": 39
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/favicon.ico",
+            "count": 36
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/index.html",
+            "count": 36
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/logo192.png",
+            "count": 36
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/manifest.json",
+            "count": 36
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/robots.txt",
+            "count": 36
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/index.css",
-            "count": 15
+            "count": 36
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/index.js",
-            "count": 15
+            "count": 36
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/README.md",
-            "count": 14
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/eslint.config.mjs",
-            "count": 14
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/post_process.log",
-            "count": 14
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/post_process_status.lock",
-            "count": 14
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/public/logo512.png",
-            "count": 14
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/logo.svg",
-            "count": 14
+            "count": 35
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/setupTests.js",
-            "count": 14
+            "count": 35
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/components/TicTacToe/TicTacToe.js",
+            "count": 28
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/react_server.log",
             "count": 12
         },
         {
-            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/src/components/TicTacToe/TicTacToe.js",
-            "count": 5
+            "file": "/tmp/kavia/workspace/code-generation/tictactoe-challenge-1156-87d62e01/tictactoe_container/package-lock.json",
+            "count": 2
         }
     ]
 }
